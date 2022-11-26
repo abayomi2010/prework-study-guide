@@ -1,9 +1,6 @@
 # <Your-Project-Title>
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 I completed this project to learn basic skills needed as a frontend developer. This project shows i have learned how to use git, github, HTML, CSS, and basic JavaScript to an extent. 
 
 ## Installation
